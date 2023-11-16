@@ -1,0 +1,23 @@
+body{
+background-color: rgb(255, 255, 255);
+font-style: inherit;
+}
+
+table {
+border-collapse: collapse;
+width: 60%;
+border-color: rgb(201, 196, 196);
+margin: 0 auto;
+font-size: 17px;
+}
+.cori {
+    background-color: rgb(232, 226, 226);
+}
+.tabletwo {
+    width: 75%;
+}
+th, td {
+    border: 0.8px solid rgb(179, 173, 173);
+    padding: 17px;
+    font-family: "Arial", serif;
+}
